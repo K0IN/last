@@ -13,12 +13,12 @@ The last package on pypi (no really go take a look [pypi index](https://pypi.org
 ## installation
 
 ```bash
-pip install last
+pip install zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 ```
 
 ## usage
 
 ```python
-import last
+import zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz as last
 print(last.last_lower_char)  # 'z'
 ```
