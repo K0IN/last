@@ -2,6 +2,8 @@
 
 The last package on pypi (no really go take a look [pypi index](https://pypi.org/simple/) scroll to the bottom)
 
+[find the package here](https://pypi.org/project/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/)
+
 ## what does it provide
 
 - last lowercase letter: 'z'
